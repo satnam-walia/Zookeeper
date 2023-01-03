@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/42784435/210279797-970495a9-5613-4f84-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is aimed at our beginners. It helps you understand some syntax basics and learn how to work with variables, data storage types such as lists, and while loops.
+This Javascript project is for beginners. It helps you understand some syntax basics and learn how to work with variables, data storage types such as lists, and while loops.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
